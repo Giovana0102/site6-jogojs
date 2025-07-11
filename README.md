@@ -3,7 +3,7 @@ Show do Milhão - JavaScript
 
 Nome: Giovana cardoso silva
 
-Um jogo inspirado no famoso programa de TV "Show do Milhão
+-Regras:
 
 1. O jogo possui 5 rodadas com perguntas de dificuldade crescente
 2. Cada rodada tem um valor em dinheiro associado
@@ -22,3 +22,10 @@ Um jogo inspirado no famoso programa de TV "Show do Milhão
    ```bash
    npm install
    npm start
+
+ Créditos:
+Inspirado no programa de TV "Show do Milhão"
+
+Desenvolvido como parte de um projeto de aprendizado em JavaScript
+
+Perguntas adaptadas de diversos quizzes online 
