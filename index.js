@@ -8,8 +8,8 @@ const rl = readline.createInterface({
 // Perguntas atualizadas com 3 alternativas cada
 const perguntas = [
   {
-    pergunta: "Qual é a capital do Brasil?",
-    alternativas: ["a) Rio de Janeiro", "b) Brasília", "c) São Paulo"],
+    pergunta: "Qual é a capital do Japão?",
+    alternativas: ["a) Tóquio", "b) Brasília", "c) Pequim"],
     resposta: "b",
     nivel: 1
   },
@@ -21,7 +21,7 @@ const perguntas = [
   },
   {
     pergunta: "Quantos planetas existem no sistema solar?",
-    alternativas: ["a) 7", "b) 8", "c) 9"],
+    alternativas: ["a) 5", "b) 8", "c) 9"],
     resposta: "b",
     nivel: 1
   },
@@ -32,9 +32,9 @@ const perguntas = [
     nivel: 2
   },
   {
-    pergunta: "Em que ano o homem pisou na Lua pela primeira vez?",
-    alternativas: ["a) 1965", "b) 1969", "c) 1972"],
-    resposta: "b",
+    pergunta: "Quem e o fundador da Microsoft?",
+    alternativas: ["a) Bill gates", "b) steve jobs", "c) Mark Zuckerberg"],
+    resposta: "a",
     nivel: 2
   },
   {
@@ -50,9 +50,9 @@ const perguntas = [
     nivel: 3
   },
   {
-    pergunta: "Qual é o livro mais vendido no mundo depois da Bíblia?",
-    alternativas: ["a) Dom Quixote", "b) O Pequeno Príncipe", "c) O Alquimista"],
-    resposta: "a",
+    pergunta: "Quem foi o fundador da Apple?",
+    alternativas: ["a) Dom Pedro II", "b) Steve jobs", "c) Bill Gates"],
+    resposta: "c",
     nivel: 4
   },
   {
@@ -68,8 +68,8 @@ const perguntas = [
     nivel: 5
   },
   {
-    pergunta: "Quem escreveu '1984'?",
-    alternativas: ["a) Aldous Huxley", "b) George Orwell", "c) Franz Kafka"],
+    pergunta: "Quem é o autor da teoria da relatividade?",
+    alternativas: ["a) Isaac Newton", "b) Albert Einstein", "c) Franz Kafka"],
     resposta: "b",
     nivel: 5
   },
@@ -92,9 +92,9 @@ const perguntas = [
     nivel: 4
   },
   {
-    pergunta: "Qual é a moeda oficial do Japão?",
-    alternativas: ["a) Won", "b) Yen", "c) Yuan"],
-    resposta: "b",
+    pergunta: "Qual o nome do maior oceano do mundo?",
+    alternativas: ["a) Oceano Pacífico", "b) Oceano Atlântico", "c) Oceano Ìndico"],
+    resposta: "a",
     nivel: 2
   }
 ];
