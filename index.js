@@ -5,12 +5,12 @@ const rl = readline.createInterface({
   output: process.stdout
 });
 
-// Perguntas atualizadas com 3 alternativas cada
+
 const perguntas = [
   {
     pergunta: "Qual é a capital do Japão?",
-    alternativas: ["a) Tóquio", "b) Brasília", "c) Pequim"],
-    resposta: "b",
+    alternativas: ["a) Berlin", "b) Tóquio", "c) Pequim"],
+    resposta: "a",
     nivel: 1
   },
   {
@@ -51,7 +51,7 @@ const perguntas = [
   },
   {
     pergunta: "Quem foi o fundador da Apple?",
-    alternativas: ["a) Dom Pedro II", "b) Steve jobs", "c) Bill Gates"],
+    alternativas: ["a) Dom Pedro II", "b) Bill Gates", "c) Steve jobs"],
     resposta: "c",
     nivel: 4
   },
