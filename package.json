@@ -1,0 +1,14 @@
+{
+  "nome": "show-do-milhao",
+  "versão": "1.0.0",
+  "descrição": "Jogo Show do Milhão em JavaScript para Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "autor": "Giovana Cardoso",
+  "licensa": "MIT",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
