@@ -9,7 +9,7 @@ const rl = readline.createInterface({
 const perguntas = [
   {
     pergunta: "Qual é a capital do Japão?",
-    alternativas: ["a) Tóquio", "b) Berlin) ", "c)Berlins Pequim"],
+    alternativas: ["a) Tóquio", "b) Berlin) ", "c) Pequim"],
     resposta: "a",
     nivel: 1
   },
