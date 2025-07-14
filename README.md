@@ -29,3 +29,5 @@ Inspirado no programa de TV "Show do Milhão"
 Desenvolvido como parte de um projeto de aprendizado em JavaScript
 
 Perguntas adaptadas de diversos quizzes online 
+
+LICENÇA : MIT
